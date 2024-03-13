@@ -1,7 +1,7 @@
 # Projects
 
-### [🧑‍🎨️ subtheme](https://subtheme.dev)
+### [🧑‍🎨️ Subtheme](https://subtheme.dev)
 A community project for building app themes.
 
-### [🗺 covidmap](https://covidmap.org)
+### [🗺 Covid Map](https://covidmap.org)
 Plot covid cases geographically over time.
